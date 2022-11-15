@@ -12,9 +12,11 @@ Conocer los conceptos básicos sobre voltaje y corriente mediante el estudio de 
 •	Conocer y analizar los conceptos básicos de las diferentes maneras en las que se pueden representar las unidades métricas para simplificar cifras grandes o pequeñas
 
 •	Aplicar temas de: la notación científica, transformaciones, voltaje, resistencias, códigos de colores, etc, que nos ayudará a resolver los ejercicios de una manera eficaz 
+•	Entender el funcionamiento de los cálculos para saber valores como resistencia, voltaje e intensidad.
 
 
 MARCO TEORICO 
+
 RESUMEN: 
 
 [![Diapositiva1.jpg](https://i.postimg.cc/Fzptg1XK/Diapositiva1.jpg)](https://postimg.cc/7J5QqH6v)
@@ -483,6 +485,9 @@ Posic 2: V1 = VS, V2 = 0V
 
 
 CONCLUSIONES
+
+Para poder concluir podemos afirmar las transformaciones de notacion cientifica, de ingenieria, resulta mucha utilidad para la mejor visualizacion y calculos y ademas los prefijos metricos del SI, que nos dan mayor comunicacion con personas del mundo. Ademas de conocer sobre los principios de la electronica como voltaje, resistencia que son utiles para nuestro futuro desempeño profesional y de suma importancia conocerlos
+
 
 
 REFERENCIAS 
