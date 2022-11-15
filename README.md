@@ -13,8 +13,12 @@ Conocer los conceptos básicos sobre voltaje y corriente mediante el estudio de 
 •	Aplicar temas de: la notación científica, transformaciones, voltaje, resistencias, códigos de colores, etc, que nos ayudará a resolver los ejercicios de una manera eficaz 
 
 
+MARCO TEORICO 
 
-
+[![Diapositiva1.jpg](https://i.postimg.cc/Fzptg1XK/Diapositiva1.jpg)](https://postimg.cc/7J5QqH6v)
+[![Diapositiva2.jpg](https://i.postimg.cc/15R1R0DV/Diapositiva2.jpg)](https://postimg.cc/3WqcnvS3)
+[![Diapositiva3.jpg](https://i.postimg.cc/tRNHHvnH/Diapositiva3.jpg)](https://postimg.cc/fkyPcKvH)
+[![Diapositiva4.jpg](https://i.postimg.cc/4N8kYK1L/Diapositiva4.jpg)](https://postimg.cc/kBthZgzK)
 
 
 
@@ -473,6 +477,8 @@ Posic 2: V1 = VS, V2 = 0V
 (c) R1
 
 
+
+CONCLUSIONES
 
 
 REFERENCIAS 
