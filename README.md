@@ -273,10 +273,12 @@ CAP 2
 SECCIÓN 2–2 Carga eléctrica 
 
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre? 
+2. 
+4.64×10^(-18)
 
-
-3. ¿Cuántos coulombs de carga poseen 50  1031 electrones? 
-
+4. ¿Cuántos coulombs de carga poseen 50  1031 electrones? 
+5. 
+80×10^(12)
 
 SECCIÓN 2–3 Voltaje, corriente y resistencia 
 
@@ -440,21 +442,27 @@ VS1 conectada a R2 y VS2 conectada a R1
 
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2? 
 
+Posic 1: V1 = 0V, V2 = VS
+Posic 2: V1 = VS, V2 = 0V 
 
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería. 
 
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74? 
-
+250V
 
 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro: 
 
 (a) manecilla en 2, ajuste de intervalo en 10 
+20Ω
 
 (b) manecilla en 15, ajuste de intervalo en 100,000 
 
+1.5MΩ
+
 (c) manecilla en 45, ajuste de intervalo en 100 
 
+4500Ω
 
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. 
 
