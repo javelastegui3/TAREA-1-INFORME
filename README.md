@@ -472,3 +472,22 @@ Posic 2: V1 = VS, V2 = 0V
 
 (c) R1
 
+
+
+
+REFERENCIAS 
+
+Tecnologías 3o ESO -La Electricidad I. (n.d.). https://www3.gobiernodecanarias.org/medusa/ecoblog/rgalman/files/2015/05/3o_La_electricidad_I_1_.pdf
+
+Mecatrónica LATAM. (2020, February 21). Resistor - Resistencia Eléctrica. Mecatrónica LATAM; Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/resistor/
+
+Administrador. (2017, May 25). Ley de Ohm - Voltaje Corriente y Resistencia. HeTPro-Tutoriales; HETPRO. https://hetpro-store.com/TUTORIALES/ley-de-ohm/#:~:text=Su%20unidad%20de%20medici%C3%B3n%20son,electrones%20dentro%20de%20un%20conducto
+
+Rashid, M. H. (2004). Electrónica de potencia: circuitos, dispositivos y aplicaciones. Pearson Educación.
+
+Boylestad, R. L., Nashelsky, L., Barraza, C. M., & Fernández, A. S. (2003). Electrónica: teoría de circuitos y dispositivos electrónicos (Vol. 8). PEARSON educación.
+
+Deorsola, M. F. P., & Morcelle del Valle, P. (2017). Circuitos eléctricos. Libros de Cátedra.
+
+
+
