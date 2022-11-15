@@ -1,5 +1,6 @@
 # TAREA-1-INFORME
 OBJETIVOS 
+
 1.1.	OBJETIVO GENERAL
 
 Darle un repaso a los temas básicos ya conocidos, para ser capaces de reconocer las unidades según el SI y sus conversiones mediante el análisis a profundidad de los conceptos fundamentales.
