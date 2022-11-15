@@ -431,9 +431,9 @@ SECCIÓN 2–5 Resistores
 
 SECCIÓN 2–6 El circuito eléctrico
 
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+31. Trace la trayectoria de la corriente en la figura 2-69
 
- 
+(a) con el interruptor en la posición 2.
 
 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito. 
 
@@ -450,6 +450,8 @@ VS1 conectada a R2 y VS2 conectada a R1
 
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72. VS R1 R2   FIGURA 2–72 
 
+[![Captura-de-pantalla-2022-11-15-121648.jpg](https://i.postimg.cc/G3XqY64K/Captura-de-pantalla-2022-11-15-121648.jpg)](https://postimg.cc/Dmbr3jd4)
+
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2? 
 
 Posic 1: V1 = 0V, V2 = VS
@@ -457,9 +459,12 @@ Posic 2: V1 = VS, V2 = 0V
 
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería. 
 
+[![Captura-de-pantalla-2022-11-15-121557.jpg](https://i.postimg.cc/FRdsZM9S/Captura-de-pantalla-2022-11-15-121557.jpg)](https://postimg.cc/2bYDjXLj)
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74? 
 250V
+
+[![Captura-de-pantalla-2022-11-15-121501.jpg](https://i.postimg.cc/fLpkQwH5/Captura-de-pantalla-2022-11-15-121501.jpg)](https://postimg.cc/FdbhjQXJ)
 
 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro: 
 
@@ -481,6 +486,7 @@ Posic 2: V1 = VS, V2 = 0V
 (b) V1 
 
 (c) R1
+[![Captura-de-pantalla-2022-11-15-121226.jpg](https://i.postimg.cc/V6LkCJhK/Captura-de-pantalla-2022-11-15-121226.jpg)](https://postimg.cc/DWHhVwnG)
 
 
 
