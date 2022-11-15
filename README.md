@@ -14,6 +14,7 @@ Conocer los conceptos básicos sobre voltaje y corriente mediante el estudio de 
 
 
 MARCO TEORICO 
+RESUMEN: 
 
 [![Diapositiva1.jpg](https://i.postimg.cc/Fzptg1XK/Diapositiva1.jpg)](https://postimg.cc/7J5QqH6v)
 [![Diapositiva2.jpg](https://i.postimg.cc/15R1R0DV/Diapositiva2.jpg)](https://postimg.cc/3WqcnvS3)
@@ -21,6 +22,8 @@ MARCO TEORICO
 [![Diapositiva4.jpg](https://i.postimg.cc/4N8kYK1L/Diapositiva4.jpg)](https://postimg.cc/kBthZgzK)
 
 
+
+EJERCICIOS PROPUESTOS
 
 CAP 1
 1. Exprese cada uno de los números siguientes en notación científica: 
